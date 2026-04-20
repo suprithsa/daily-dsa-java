@@ -1,4 +1,4 @@
-public class EasyArray {
+public class Easy{
     public static void main(String[] args) {
         
         // 1. Create a simple array with exactly 3 numbers
